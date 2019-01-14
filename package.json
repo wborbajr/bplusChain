@@ -1,0 +1,23 @@
+{
+  "name": "bpluschain",
+  "version": "1.0.0",
+  "description": "B+ Blockchain",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wborbajr/bplusChain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "nodejs"
+  ],
+  "author": "Waldir Borba Junior <wborbajr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wborbajr/bplusChain/issues"
+  },
+  "homepage": "https://github.com/wborbajr/bplusChain#readme"
+}
